@@ -3,6 +3,7 @@ This controller can manage a RGBW analog or digital (WS2812) LED strip whit smoo
 
 ## Functions:
 * Smooth color transition
+* Power off memory
 * 8 Memory colors
 * Cycle mode
 * IR Reciver

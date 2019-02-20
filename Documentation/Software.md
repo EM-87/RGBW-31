@@ -232,7 +232,13 @@ __________________________________________________
 ```
 
 ## IR Remote
+When a signal is recived this frame appears:
+```
+__________________________________________________
+|               IR Signal recived                |
+|________________________________________________|
 
+```
 The IR functions are limited to the folowing commands:
 * w+/- / r+/- / g+/- / b+/-
 * wt / rt / gt / bt
@@ -241,12 +247,32 @@ The IR functions are limited to the folowing commands:
 * rgb+/-
 * cycle
 * cramp+/-
+* stay+/-
+* ramp+/-
+* onoff
+* red
+* green
+* blue
+* cyan
+* gold
+* magenta
+* violet
+* ltgreen
+* ltblue
+* orange
+* rgbwhite
 
 ## Code adaptation
 
 ### IR codes:
-To set youre own IR controller uncomment the indicated lines to see the IR codes of youre keys trougth serial.
+To set youre own IR controller uncomment the indicated lines to see the IR codes of youre keys trougth serial:
+```
+__________________________________________________
+| IR Signal detected:                            |
+|           1CE3D02F | -12241                    |
+|________________________________________________|
 
+```
 ### Serial supresion:
 Serial console uses 45% of the sketch memory, so if you want to add mayor changes on an Atmega 328 without using USB functions uncomment the indicated lines.
 

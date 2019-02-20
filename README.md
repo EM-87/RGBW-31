@@ -17,8 +17,8 @@ This controller can manage a RGBW analog or digital (WS2812) LED strip whit smoo
 * Setteable cycle dimmer
 
 ## Details:
-* [Software](https://github.com/EM-87/RGBW-Digi/blob/patch-1/Documentation/Software.md)
-* [Hardware](https://github.com/EM-87/RGBW-Digi/blob/patch-1/Documentation/Hardware.md)
+* [Software](./Documentation/Software.md)
+* [Hardware](./Documentation/Hardware.md)
 
 #### Credits:
 

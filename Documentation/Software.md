@@ -288,4 +288,4 @@ Serial console uses 45% of the sketch memory, so if you want to add mayor change
 
 This project is licensed under ©Copyright License. Ask for permisions.
 
-[:back: Back to Readme](https://github.com/EM-87/RGBW-Digi/tree/patch-1)
+[:back: Back to Readme](https://github.com/EM-87/RGBW-Analog-Digital-LED-Controller)

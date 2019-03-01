@@ -1,6 +1,8 @@
 # RGBW Analog/Digital LED Controller
 This controller can manage a RGBW analog or digital (WS2812) LED strip whit smooth transitions from an IR controller, USB serial console, or buttons, and got many functions. 
 
+![Assembly](./Images/Assembly%201.png)
+
 ## Functions:
 * Smooth color transition
 * Power off memory

@@ -31,12 +31,13 @@ This its a brief revision of the hardware.
 | Component           | Quantity    | Price |
 | ------------------- | :---------: | ----: |
 | Potentiometer 1K    | 4           |       |
-| TIP122              | 4           |       |
-| Capacitator 1µF 25V | 4           |       |
-| WS2812              | 1           |       |
-| Swich               | 2           |       |
+| IRLB8721            | 4           |       |
+| Capacitator 1µF 50V | 4           |       |
+| SK6812              | 1           |       |
+| Switch              | 2           |       |
 | IR Reciver          | 1           |       |
 | Pin Header          | 1           |       |
+| Screw Terminal 1x2  | 4           |       |
 | PCB                 | 1           |       |
 | Total               |             |       |
 

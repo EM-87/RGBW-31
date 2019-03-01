@@ -12,8 +12,8 @@ This its a brief revision of the hardware.
 
 ## Assembly:
 
-![Assembly](./Documentation/Images/Assembly%202.png)
-![Assembly](./Documentation/Images/Assembly%203.png)
+![Assembly](./Images/Assembly%202.png)
+![Assembly](./Images/Assembly%203.png)
 
 ### Conexions:
 

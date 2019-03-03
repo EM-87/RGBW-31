@@ -320,6 +320,6 @@ Serial console uses 49% of the memory, so if you want to add mayor changes on an
 
 ## License
 
-This project is licensed under ©Copyright License. Ask for permisions.
+This software is licensed under ©Copyright License. Ask for permisions.
 
 [:back: Back to Readme](https://github.com/EM-87/RGBW-Analog-Digital-LED-Controller)

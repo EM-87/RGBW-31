@@ -15,7 +15,7 @@ This its a brief revision of the hardware.
 ![Assembly](./Images/Assembly%202.png)
 ![Assembly](./Images/Assembly%203.png)
 
-### Conexions:
+## Conexions:
 
 |  Function  | Pin | 
 | :--------- | :-: | 

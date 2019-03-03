@@ -287,49 +287,29 @@ __________________________________________________
 Serial console uses 49% of the memory, so if you want to add mayor changes on an Atmega 328 without using USB functions supress it.
 
 ### EEPROM Maping:
-* 1 hr
-* 2 hg
-* 3 hb
-* 4 hw
-* 5 onoff flag
-* 6 cycledim
-* 7 mode
-* 8 cyclego
-* 9 first use flag
-* 10-13 color 1
-* 14-17 color2
-* 18-21 color3
-* 22-25 color4
-* 26-29 color5
-* 30-33 color6
-* 34-37 color7
-* 38-41 color8
-* 42-45 ramp
-* 46-49 cycleramp
-* 50-53 stay
 
 | Sector |    Function    |
 | :----: | :------------- |
-|   1    |       hr       |
-|   2    |       hg       |
-|   3    |       hb       |
-|   4    |       hw       |
-|   5    |   onoff flag   |
-|   6    |    cycledim    |
-|   7    |      mode      |
-|   8    |    cyclego     |
+|   1    | hr             |
+|   2    | hg             |
+|   3    | hb             |
+|   4    | hw             |
+|   5    | onoff flag     |
+|   6    | cycledim       |
+|   7    | mode           |
+|   8    | cyclego        |
 |   9    | first use flag |
-| 10-13  |    color 1     |
-| 14-17  |    color 2     |
-| 18-21  |    color 3     |
-| 22-25  |    color 4     |
-| 26-29  |    color 5     |
-| 30-33  |    color 6     |
-| 34-37  |    color 7     |
-| 38-41  |    color 8     |
-| 42-45  |      ramp      |
-| 46-49  |   cycleramp    |
-| 50-53  |      stay      |
+| 10-13  | color 1        |
+| 14-17  | color 2        |
+| 18-21  | color 3        |
+| 22-25  | color 4        |
+| 26-29  | color 5        |
+| 30-33  | color 6        |
+| 34-37  | color 7        |
+| 38-41  | color 8        |
+| 42-45  | ramp           |
+| 46-49  | cycleramp      |
+| 50-53  | stay           |
 
 
 ## Built With

@@ -1,6 +1,6 @@
 # Software Instrucctions
 
-This its a brief revision of the serial commands and other input methods
+This is a brief revision of the input methods, and the code.
 
 ## Serial commands:
 

@@ -312,17 +312,16 @@ Serial console uses 49% of the memory, so if you want to add mayor changes on an
 | 50-53  | stay           |
 
 
-## Built With
+## Libraries
 
 * [EEPROM](https://github.com/Chris--A/EEPROM) - *EEPROM Memory Library* - [Christopher Andrews](https://github.com/Chris--A)
 * [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - *WS2812 Library* - [James Fowkes](https://github.com/jamesfowkes)
 * [IRremote](https://github.com/z3t0/Arduino-IRremote) - *IR Library* - [Ken Shirriff](https://github.com/z3t0)
 
 
-## Authors
+## Author
 
-* **Jeremy Saglimbeni** - *Initial work* - [jersagfast](https://github.com/jersagfast/)
-* **Eduardo Martínez** - *Current version* - [EM-87](https://github.com/EM-87/)
+* **Eduardo Martínez** -  [*EM-87*](https://github.com/EM-87/)
 
 ## License
 

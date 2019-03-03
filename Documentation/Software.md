@@ -267,13 +267,13 @@ The IR functions are limited to the folowing commands:
 ### IR codes:
 To set youre own IR controller add this code to the line 128:
 ```
-Serial.println(F("__________________________________________________"));    // Uncoment this to check     
-Serial.println(F("| IR Signal detected:                            |"));    // your IR reciver values     
-Serial.print(F("|           "));                                            // and change the IR codes    
-Serial.print(results.value, HEX);                                           // of this skech to make it   
-Serial.print(F(" | "));                                                     // compatible with youre      
-Serial.println(remval);                                                     // remote controller.         
-Serial.println(F("|________________________________________________|"));                                             
+Serial.println(F("__________________________________________________"));    // Uncoment this to check
+Serial.println(F("| IR Signal detected:                            |"));    // your IR reciver values
+Serial.print(F("|           "));                                            // and change the IR codes
+Serial.print(results.value, HEX);                                           // of this skech to make it
+Serial.print(F(" | "));                                                     // compatible with youre
+Serial.println(remval);                                                     // remote controller.
+Serial.println(F("|________________________________________________|"));
 ```
 It gives a frame like this trougth serial:
 ```

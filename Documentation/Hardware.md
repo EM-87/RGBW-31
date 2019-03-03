@@ -25,6 +25,7 @@ This its a brief revision of the hardware.
 * Button 1: 8
 * Button 2: 4
 * IR Reciver: 2
+
 |  Function  | Pin | 
 | :--------- | :-: | 
 | Red        |  9  | 

@@ -47,10 +47,6 @@ This its a brief revision of the hardware.
 | PCB                      | 1           | 0.18€ |  0.18€ |
 | Total                    |             |       | 14.03€ |
 
-## Author:
-
-* **Eduardo Martínez** - [EM-87](https://github.com/EM-87/)
-
 ## License:
 
 This project is licensed under OSHW (Open Source Hardware) License.

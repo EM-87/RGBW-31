@@ -284,7 +284,7 @@ __________________________________________________
 
 ```
 ### Serial supresion:
-Serial console uses 45% of the sketch memory, so if you want to add mayor changes on an Atmega 328 without using USB functions uncomment the indicated lines.
+Serial console uses 45% of the sketch memory, so if you want to add mayor changes on an Atmega 328 without using USB functions supress it.
 
 ### EEPROM Maping:
 * 1 hr

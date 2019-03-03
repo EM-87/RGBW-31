@@ -49,6 +49,6 @@ This its a brief revision of the hardware.
 
 ## License:
 
-This project is licensed under OSHW (Open Source Hardware) License.
+This hardware is licensed under OSHW (Open Source Hardware) License.
 
 [:back: Back to Readme](https://github.com/EM-87/RGBW-Analog-Digital-LED-Controller)

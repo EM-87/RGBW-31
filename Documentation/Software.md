@@ -318,11 +318,6 @@ Serial console uses 49% of the memory, so if you want to add mayor changes on an
 * [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - *WS2812 Library* - [James Fowkes](https://github.com/jamesfowkes)
 * [IRremote](https://github.com/z3t0/Arduino-IRremote) - *IR Library* - [Ken Shirriff](https://github.com/z3t0)
 
-
-## Author
-
-* **Eduardo Martínez** -  [*EM-87*](https://github.com/EM-87/)
-
 ## License
 
 This project is licensed under ©Copyright License. Ask for permisions.

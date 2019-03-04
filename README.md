@@ -1,7 +1,7 @@
 # RGBW Analog/Digital LED Controller
 This controller can manage a RGBW analog or digital (SK6812) LED strip whit smooth transitions from an IR controller, USB serial console, or buttons, and got many functions. 
 
-![Assembly](./Documentation/Images/Assembly%201.png)
+![Assembly](./Documentation/Images/Sketch.png)
 
 ## Functions:
 * Smooth color transition

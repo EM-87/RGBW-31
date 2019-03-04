@@ -1,6 +1,6 @@
 # Hardware Details
 
-This its a brief revision of the hardware.
+This is a brief revision of the hardware.
 
 ## Schematic:
 

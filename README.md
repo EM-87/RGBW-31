@@ -8,16 +8,16 @@ This controller can manage a RGBW analog or digital (SK6812) LED strip whit smoo
 * Power off memory
 * 8 Memory colors
 * Cycle mode
-* IR Reciver
+* IR Receiver
 * Serial console
 * Console level % input
 * Buttons (*On-Off & Modes*)
 * Color toggle
 * Color dimmer 
-* Setteable transition time
-* Setteable cycle transition time
-* Setteable cycle stay time 
-* Setteable cycle dimmer
+* Settable transition time
+* Settable cycle transition time
+* Settable cycle stay time 
+* Settable cycle dimmer
 
 ## Details:
 * [Software](./Documentation/Software.md)

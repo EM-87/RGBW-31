@@ -35,7 +35,7 @@ Provides this help frame with all the commands.
 Turn off fast and turn on to the last color.
 
 #### allon:
-All colors on to the higest level.
+All colors on to the highest level.
 
 #### alloff:
 All colors off.
@@ -63,7 +63,7 @@ __________________________________________________
 ```
 
 #### resetsettings:
-:warning: This reset all setings to the factory settings.
+:warning: This reset all settings to the factory settings.
 
 #### savecolor:
 Save the current color to the desired position:
@@ -78,7 +78,7 @@ callcolor 4
 ```
 
 #### wt, rt, gt, bt:
-Color toogle, it switch the selected channel.
+Color toggle, it switch the selected channel.
 
 #### levelw, levelr, levelg, levelb:
 Level input, use to set a desired level in %:
@@ -91,28 +91,28 @@ __________________________________________________
 |              White Level:74%                   |
 |________________________________________________|
 ```
-Can be setted from 0 to 100.
+Can be seted from 0 to 100.
 
 #### lramp:
 Level ramp, use to set a desired time in ms:
 ```
 lramp 300
 ```
-It gives the data frame updated. Can be setted from 0 to 10000.
+It gives the data frame updated. Can be seted from 0 to 10000.
 
 #### lcramp:
 Level cycle ramp, use to set a desired time in ms:
 ```
 lcramp 300
 ```
-It gives the data frame updated. Can be setted from 0 to 10000.
+It gives the data frame updated. Can be seted from 0 to 10000.
 
 #### lstay:
 Level cycle stay, use to set a desired time in ms:
 ```
 lstay 300
 ```
-It gives the data frame updated. Can be setted from 0 to 30000.
+It gives the data frame updated. Can be seted from 0 to 30000.
 
 #### ldimm:
 Level dimmer, use to set a desired level in %, it gives the data frame updated. 
@@ -204,26 +204,26 @@ Set rgb white color (r100% g100% b100%)
 ## Buttons:
 
 Buttons have two push modes, short and long press:
-Button 1 on short press use the `onoff` comand, showing the next frame
+Button 1 on short press use the `onoff` command, showing the next frame
 ```
 __________________________________________________
 |                       On                       |
 |________________________________________________|
 ```
-On long press use the `wt` comand, showing the next frame
+On long press use the `wt` command, showing the next frame
 ```
 __________________________________________________
 |                   White toggle                 |
 |                       On                       |
 |________________________________________________|
 ```
-Button 2 on short press change trougth the seven color mode, showing the next frame:
+Button 2 on short press change through the seven color mode, showing the next frame:
 ```
 __________________________________________________
 |                    Mode:1                      |
 |________________________________________________|
 ```
-On long press use the `cycle` comand, showing the next frame
+On long press use the `cycle` command, showing the next frame
 ```
 __________________________________________________
 |                   Cycle Mode                   |
@@ -232,14 +232,14 @@ __________________________________________________
 ```
 
 ## IR Remote
-When a signal is recived this frame appears:
+When a signal is received this frame appears:
 ```
 __________________________________________________
-|               IR Signal recived                |
+|               IR Signal received                |
 |________________________________________________|
 
 ```
-The IR functions are limited to the folowing commands:
+The IR functions are limited to the following commands:
 * w+/- / r+/- / g+/- / b+/-
 * wt / rt / gt / bt
 * alloff
@@ -265,7 +265,7 @@ The IR functions are limited to the folowing commands:
 ## Code adaptation
 
 ### IR codes:
-To set youre own IR controller add this code to the line 128:
+To set you’re own IR controller add this code to the line 128:
 ```
 Serial.println(F("__________________________________________________"));
 Serial.println(F("| IR Signal detected:                            |"));
@@ -275,7 +275,7 @@ Serial.print(F(" | "));
 Serial.println(remval);
 Serial.println(F("|________________________________________________|"));
 ```
-It gives a frame like this trougth serial:
+It gives a frame like this through serial:
 ```
 __________________________________________________
 | IR Signal detected:                            |
@@ -283,10 +283,10 @@ __________________________________________________
 |________________________________________________|
 
 ```
-### Serial supresion:
-Serial console uses 49% of the memory, so if you want to add mayor changes on an Atmega 328 without using USB functions supress it.
+### Serial suppression:
+Serial console uses 49% of the memory, so if you want to add mayor changes on an Atmega 328 without using USB functions suppress it.
 
-### EEPROM Maping:
+### EEPROM Mapping:
 
 | Sector |    Function    |
 | :----: | :------------- |

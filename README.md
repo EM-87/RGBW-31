@@ -25,4 +25,4 @@ This controller can manage a RGBW analog or digital (SK6812) LED strip whit smoo
 
 #### Credits:
 
-> 2016-2019 Eduardo Martínez
+> 2016-2019 Eduardo M.
